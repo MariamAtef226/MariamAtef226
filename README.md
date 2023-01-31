@@ -10,7 +10,7 @@
 ### Languages & Tools
 
 #### Frontend Development
-<img src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" alt="html" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425" alt="html" width="50" height="50">
 
 <!---
 MariamAtef226/MariamAtef226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
