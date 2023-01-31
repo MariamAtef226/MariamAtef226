@@ -25,10 +25,13 @@
 <hr>
 
 
-### 📫 How to reach me:
+## 📫 How to reach me:
+
 
 - 📧 mariamatef226@gmail.com
-- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="10" height="10"> <a href="https://www.linkedin.com/in/mariam-atef-53a8031b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGrnfGZcOSdS%2FaxwiJOvlGw%3D%3D"> Mariam Atef </a>
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15"> <a href="https://www.linkedin.com/in/mariam-atef-53a8031b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGrnfGZcOSdS%2FaxwiJOvlGw%3D%3D"> Mariam Atef </a>
+
+<hr>
 
 
 <!---
