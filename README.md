@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MariamAtef226
-- 👀 I’m interested in programming, front-end development, tennis, music and reading
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning to excel front-end development
 - 📫 How to reach me: mariamatef226@gmail.com
 
