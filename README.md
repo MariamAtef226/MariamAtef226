@@ -5,7 +5,7 @@
 - 👀 Mainly interested in web development.
 - 🌱 Currently learning react.js
 - 💬 Talk to me about sports, biographies, music and of course, software development!
-- ⚡ Fun fact: I'm an amateur author & ex-tennis player who paints and knows un peu de français 🥐
+- ⚡ Fun fact: an amateur author & ex-tennis player who paints and knows un peu de français 🥐
 
 ### Languages
 
@@ -23,6 +23,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs code" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="pycharm" width="50" height="50"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-how-setup-mysql-workbench-database-for-wordpress-20.png" alt="workbench" width="50" height="50"> <img src="https://www.codewithc.com/wp-content/uploads/2014/08/codeblocks-featured.png" alt="codeblocks" width="50" height="50">
 
 <hr>
+
+
+### 📫 How to reach me:
+
+- 📧 mariamatef226@gmail.com
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="10" height="10"> <a href="https://www.linkedin.com/in/mariam-atef-53a8031b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGrnfGZcOSdS%2FaxwiJOvlGw%3D%3D"> Mariam Atef </a>
 
 
 <!---
