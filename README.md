@@ -20,7 +20,7 @@
 
 ### Favourite Tools
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs code" width=50" height="50"> <img src="https://assets.stickpng.com/images/58481537cef1014c0b5e4968.png" alt="pycharm" width=50" height=50"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-how-setup-mysql-workbench-database-for-wordpress-20.png" alt="workbench" width="50" height="50"> <img src="https://www.codewithc.com/wp-content/uploads/2014/08/codeblocks-featured.png" alt="codeblocks" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs code" width="50" height="50"> <img src="https://assets.stickpng.com/images/58481537cef1014c0b5e4968.png" alt="pycharm" width="50" height="50"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-how-setup-mysql-workbench-database-for-wordpress-20.png" alt="workbench" width="50" height="50"> <img src="https://www.codewithc.com/wp-content/uploads/2014/08/codeblocks-featured.png" alt="codeblocks" width="50" height="50">
 
 
 <!---
