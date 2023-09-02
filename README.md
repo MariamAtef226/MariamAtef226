@@ -3,7 +3,8 @@
 ### I'm Mariam, a software developer 👩‍💻
 
 - 👀 Mainly interested in web development.
-- 🌱 Currently learning advanced react.js
+- 🌱 Currently learning Machine Learning.
+- 🏋️‍♀️ Working on excelling in react.js development.
 - 💬 Talk to me about sports, biographies, music and of course, software development!
 - ⚡ Fun fact: an amateur author & ex-tennis player who paints and knows un peu de français 🥐
 
