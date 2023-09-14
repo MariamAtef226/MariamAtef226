@@ -3,15 +3,15 @@
 ### I'm Mariam, a software developer 👩‍💻
 
 - 👀 Mainly interested in web development.
-- 🌱 Currently learning Machine Learning.
-- 🏋️‍♀️ Working on excelling in react.js development.
+- 🌱 Currently learning Machine Learning and Node.js.
+- 🏋️‍♀️ Working on excelling react.js development.
 - 💬 Talk to me about sports, biographies, music and of course, software development!
 - ⚡ Fun fact: an amateur author & ex-tennis player who paints and knows un peu de français 🥐
 
 ### Languages
 
 #### Frontend Development
-<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" alt="html & css" width="150" height="60">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png" alt="bootstrap" width="50" height="50">  <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="react" width="55" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="55" height="50"> 
+<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" alt="html & css" width="150" height="60">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png" alt="bootstrap" width="50" height="50">  <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="jquery" width="55" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="55" height="50"> 
 
 
 #### Backend Development
