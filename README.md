@@ -3,8 +3,8 @@
 ### I'm Mariam, a software developer 👩‍💻
 
 - 👀 Mainly interested in web development.
-- 🌱 Currently learning Machine Learning and Node.js.
-- 🏋️‍♀️ Working on excelling react.js development.
+- 🌱 Currently learning backend development using Laravel.
+- 🏋️‍♀️ Working on advancing in react.js & Nodejs.
 - 💬 Talk to me about sports, biographies, music and of course, software development!
 - ⚡ Fun fact: an amateur author & ex-tennis player who paints and knows un peu de français 🥐
 
@@ -15,7 +15,8 @@
 
 
 #### Backend Development
-<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-6.png" alt="mysql" width="100" height="50">   <img src="https://img.freepik.com/free-icon/php_318-698171.jpg" alt="php" width="50" height="50">
+<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-6.png" alt="mysql" width="100" height="50"> <img src="https://img.freepik.com/free-icon/php_318-698171.jpg" alt="php" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodejs" width="70" height="50"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="70" height="50" title="mongodb"> <img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="firebase" title="firebase" width="50" height="50">
+
 
 #### Desktop Apps Development
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50" height="50"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" alt="c++" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="50" height="50">
