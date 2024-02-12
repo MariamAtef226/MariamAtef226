@@ -11,19 +11,23 @@
 ### Languages
 
 #### Frontend Development
-<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" alt="html & css" width="150" height="60">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png" alt="bootstrap" width="50" height="50">  <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="jquery" width="55" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="55" height="50"> 
+<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" alt="html & css" width="150" height="60">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png" alt="bootstrap" width="50" height="50">  <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="jquery" width="55" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="55" height="50">  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="55" height="50"> 
 
 
 #### Backend Development
-<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-6.png" alt="mysql" width="100" height="50"> <img src="https://img.freepik.com/free-icon/php_318-698171.jpg" alt="php" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodejs" width="70" height="50"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="70" height="50" title="mongodb"> <img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="firebase" title="firebase" width="50" height="50">
+<img src="https://img.freepik.com/free-icon/php_318-698171.jpg" alt="php" width="50" height="50"> &nbsp; <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" alt="laravel" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodejs" width="70" height="50"> 
+
+
+#### Databases
+<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-6.png" alt="mysql" width="100" height="50"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="70" height="50" title="mongodb"> <img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="firebase" title="firebase" width="50" height="50">
 
 
 #### Desktop Apps Development
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50" height="50"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" alt="c++" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="50" height="50">
 
 ### Favourite Tools
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs code" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="pycharm" width="50" height="50"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-how-setup-mysql-workbench-database-for-wordpress-20.png" alt="workbench" width="50" height="50"> <img src="https://www.codewithc.com/wp-content/uploads/2014/08/codeblocks-featured.png" alt="codeblocks" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs code" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="pycharm" width="50" height="50"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-how-setup-mysql-workbench-database-for-wordpress-20.png" alt="workbench" width="50" height="50"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="50" height="50">
 
 <hr>
 
