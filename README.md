@@ -3,7 +3,7 @@
 ### I'm Mariam, a software developer 👩‍💻
 
 - 👀 Mainly interested in web development.
-- 🌱 Currently learning backend development using Laravel.
+- 🌱 Currently learning backend development using Spring Boot.
 - 🏋️‍♀️ Working on advancing in react.js & Nodejs.
 - 💬 Talk to me about sports, biographies, music and of course, software development!
 - ⚡ Fun fact: an amateur author & ex-tennis player who paints and knows un peu de français 🥐
@@ -15,7 +15,8 @@
 
 
 #### Backend Development
-<img src="https://img.freepik.com/free-icon/php_318-698171.jpg" alt="php" width="50" height="50"> &nbsp; <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" alt="laravel" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodejs" width="70" height="50"> 
+<img src="https://img.freepik.com/free-icon/php_318-698171.jpg" alt="php" width="50" height="50"> &nbsp; <!-- <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" alt="laravel" width="50" height="50"> --> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodejs" width="70" height="50"> <img src="https://miro.medium.com/v2/resize:fit:500/1*AbiX4LwtSNozoyfypcKvEg.png" alt="springboot" width="50" height="50"> 
+
 
 
 #### Databases
@@ -27,7 +28,7 @@
 
 ### Favourite Tools
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs code" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="pycharm" width="50" height="50"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-how-setup-mysql-workbench-database-for-wordpress-20.png" alt="workbench" width="50" height="50"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs code" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="pycharm" width="50" height="50"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-how-setup-mysql-workbench-database-for-wordpress-20.png" alt="workbench" width="50" height="50"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="70" height="50">
 
 <hr>
 
