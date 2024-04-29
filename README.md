@@ -23,7 +23,7 @@
 <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-6.png" alt="mysql" width="100" height="50"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="70" height="50" title="mongodb"> <img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="firebase" title="firebase" width="50" height="50">
 
 
-#### Desktop Apps Development
+#### Other Programming Languages
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="50" height="50">
 
 ### Favourite Tools
