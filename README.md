@@ -1,10 +1,9 @@
 ## Hello World! 👋
 
-### I'm Mariam, a software developer 👩‍💻
+### I'm Mariam, a software engineer 👩‍💻
 
 - 👀 Mainly interested in web development.
-- 🌱 Currently learning backend development using Spring Boot.
-- 🏋️‍♀️ Working on advancing in react.js & Nodejs.
+- 🌱 Currently learning new tools such as Kafka, Elastic Search & Hapijs.
 - 💬 Talk to me about sports, biographies, music and of course, software development!
 - ⚡ Fun fact: an amateur author & ex-tennis player who paints and knows un peu de français 🥐
 
